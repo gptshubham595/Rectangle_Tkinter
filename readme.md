@@ -9,3 +9,5 @@ double press it to scale
 click save button it will save a rect.png image
 
 enter python gui.py
+
+<img src="./rect.png">
